@@ -1,5 +1,5 @@
 # MIAE-215 Fall 2022 Tutorials
-***All of the resources for COEN-215 tutorials***
+***All of the resources for MIAE-215 tutorials***
 
 ## C++ installation 
 ### Windows
